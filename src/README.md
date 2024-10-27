@@ -7,8 +7,8 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: FAA - 一款美食大战老鼠自动化小助手
+tagline: Foods Vs Mice Auto Assistant 主打自动放卡 自动战斗 简单上手 日常清空
 actions:
   - text: 使用指南
     icon: lightbulb
@@ -18,179 +18,139 @@ actions:
   - text: 文档
     link: ./guide/
 
-highlights:
-  - header: 易于安装
-    image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    highlights:
-      - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
-      - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
+  - text: 下载
+    link: ./guide/
 
-  - header: 在 Markdown 中添加你想要的内容
-    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
-    image: /assets/image/markdown.svg
+highlights:
+  - header: 超全功能模块! 超多自动化!
+    description: FAA注重稳定流畅的日常清理, 完成配置后仅需一键即可自动清空一整周的各种事项! 解放您的双手!
+    # image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
-    features:
-      - title: 链接检查
+      - title: 刷新登录
         icon: clipboard-check
-        details: 检查 Markdown 链接
+        details: 轻松刷新, 自动登录, 刷新游戏缓存，复位稳定挂机
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 
-      - title: 提示容器
-        icon: box-archive
-        details: 用样式装饰 Markdown 内容
+      - title: 自动签到
+        icon: clipboard-check
+        details: 一键完成 每日签到 / VIP签到 / 美食活动 / 法老抽奖 / 塔罗抽奖 / 会长发任务 / 营地领钥匙 / 月卡领取
+        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+
+      - title: 自定义任务队列
+        icon: code
+        details: 以任意的顺序, 自由组合 战斗 / 物品清理 / 消耗品使用 / 刷新 / 领取奖励 等功能, 个性自定义.
         link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
 
-      - title: GFM 警告
-        icon: bell
-        details: GFM 风格的警告容器
+      - title: 常规刷本
+        icon: box-archive
+        details: 在单一副本完成每天的45场满掉落战斗
+        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      - title: 物品清理
+        icon: quote-left
+        details: 删除各种垃圾物品材料, 清理您的道具背包, 支持自定义
         link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/alert.html
 
-      - title: 选项卡
-        icon: table-columns
-        details: 使用选项卡对相似内容进行分组
+      - title: 消耗品使用
+        icon: quote-left
+        details: 使用各种消耗品, 免去手点烦恼, 支持自定义
         link: https://theme-hope.vuejs.press/zh/guide/markdown/content/tabs.html
 
-      - title: 代码组
-        icon: code
-        details: 使用选项卡对相似代码进行分组
+      - title: 公会任务
+        icon: quote-left
+        details: 识别 + 完成 + 领取公会任务, 包括需要特定卡片的任务
         link: https://theme-hope.vuejs.press/zh/guide/markdown/code/code-tabs.html
 
-      - title: 自定义对齐
-        icon: align-center
-        details: Markdown 中对内容进行自定义对齐
+      - title: 情侣任务
+        icon: quote-left
+        details: 识别 + 完成 + 领取公会任务
         link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/align.html
 
-      - title: 自定义属性
-        icon: code
-        details: 为 Markdown 元素添加属性
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/attrs.html
-
-      - title: 上下角标
-        icon: superscript
-        details: 轻松在 Markdown 中添加上下角标
+      - title: 美食大赛
+        icon: quote-left
+        details: 100%准确度超强OCR文字识别 + 语义解析 + 自动方案生成 + 自动化全流程 = 一键肝完美食大赛
         link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
-      - title: 脚注
+      - title: 勇士副本
         icon: quote-left
-        details: 在内容中插入脚注
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/footnote.html
+        details: 每天最大香料来源, 轻松拿捏
+        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
-      - title: 标记
-        icon: highlighter
-        details: 标记并高亮内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/mark.html
+      - title: 跨服副本
+        icon: quote-left
+        details: 10次无衰减的掉落, 终极技能书最大来源, 必须完美支持
+        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
-      - title: 剧透
-        icon: eraser
-        details: 添加剧透标记支持
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/spoiler.html
+      - title: 公会副本
+        icon: quote-left
+        details: 暗晶自动刷取和兑换, 免费生肖星座卡我来啦
+        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
-      - title: 任务列表
-        icon: square-check
-        details: 轻松插入任务列表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/tasklist.html
+      - title: 魔塔蛋糕
+        icon: quote-left
+        details: 单人双人密室完整覆盖, 输入层数0即可自动爬塔~
+        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
-      - title: 图片语法
-        icon: image
-        details: 使用改进的语法指定图片大小与颜色模式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/image.html
+      - title: 萌宠神殿
+        icon: quote-left
+        details: 蚊子腿也完全不放过
+        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
-      - title: 组件支持
-        icon: puzzle-piece
-        details: 在 Markdown 中轻松插入组件
-        link: https://theme-hope.vuejs.press/zh/guide/component/grammar.html
+      - title: 无限跨服
+        icon: quote-left
+        details: 无限一分钟退出循环刷跨服副本, 威望经验滚滚来
+        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
-      - title: 组件
-        icon: puzzle-piece
-        details: 开箱即用的常用组件
-        link: https://theme-hope.vuejs.press/zh/guide/component/built-in.html
-
-      - title: Chart.js 支持
-        icon: chart-simple
-        details: 在 Markdown 中展示 Chart.js 图表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/chartjs.html
-
-      - title: 流程图支持
-        icon: route
-        details: 在 Markdown 中直接写出流程图
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/flowchart.html
-
-      - title: Mermaid 支持
-        icon: chart-pie
-        details: 在 Markdown 中添加 Mermaid 图例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/mermaid.html
-
-      - title: Plantuml 支持
-        icon: diagram-project
-        details: 在 Markdown 中添加 Plant UML 图表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/plantuml.html
-
-      - title: Tex 支持
-        icon: square-root-variable
-        details: Markdown 现在也可以支持 Tex 语法以显示公式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/tex.html
-
-      - title: 导入文件支持
-        icon: fab fa-markdown
-        details: 将你的文档分段，并在 Markdown 中导入
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/include.html
-
-      - title: 交互演示支持
-        icon: code
-        details: 你可以在 Markdown 中添加交互演示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/playground.html
-
-      - title: Kotlin 交互演示支持
-        icon: fab fa-kickstarter
-        details: 响应式的 Kotlin 演示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/kotlin-playground.html
-
-      - title: Vue 交互演示支持
-        icon: fab fa-vuejs
-        details: 在交互演示中展示 Vue 组件
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/vue-playground.html
-
-      - title: Sandpack 交互演示支持
-        icon: code
-        details: Sandpack 驱动的实时的编码环境
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/sandpack.html
-
-      - title: 代码案例支持
-        icon: laptop-code
-        details: 你可以很方便的插入代码案例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/demo.html
-
-      - title: 幻灯片支持
-        icon: person-chalkboard
-        details: 通过 Reveal.js 在 Markdown 中插入幻灯片
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html
-
-  - header: 可定制的页面
-    description: 完整无障碍支持的可定制外观
+  - header: 超强战斗执行器
+    description: 最简单的配置, 强大的功能, 极强的方案通用性
     image: /assets/image/ui.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
     highlights:
-      - title: 深色模式
+      - title: 自动化进退
         icon: circle-half-stroke
-        details: 可以自由切换浅色模式与深色模式
+        details: 支持所有地图的全自动进入与退出
         link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
 
-      - title: 主题色切换
+      - title: 自动承载卡
         icon: palette
-        details: 支持自定义主题色并允许用户在预设的主题颜色之间切换
+        details: 为90%的地图覆盖全自动的承载卡预设, 支持冷门承载, 您完全不用在战斗方案中配置它们, 仅需将卡片塞入卡组任意位置即可
         link: https://theme-hope.vuejs.press/zh/guide/interface/theme-color.html
 
-      - title: 更多
+      - title: 自动冰沙
         icon: ellipsis
-        details: RTL 布局，打印支持，全局按钮等
+        details: 智能且自动的使用极寒冰沙卡片加速布阵, 您完全不用在战斗方案中配置它们, 仅需将卡片塞入卡组任意位置即可
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
+      - title: 自动复制
+        icon: ellipsis
+        details: 可根据配置的卡片被复制优先级, 自动使用您携带的多种复制类卡片, 加速布阵
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
+      - title: 状态识别
+        icon: ellipsis
+        details: 基于图像识别的卡片状态识别放卡, 无需对您的游戏练度做任何预设, 即可体验丝滑放卡
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
+      - title: 可视化编辑器
+        icon: ellipsis
+        details: 可视化编辑战斗方案, 轻松点击书写您的奇谋诡略
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
+      - title: 轻松分享
+        icon: ellipsis
+        details: 一方案一文件明文储存, 轻松传递您的巧思
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
+      - title: 高级战斗(beta)
+        icon: ellipsis
+        details: 基于深度学习的敌对目标识别, 以及线性规划的最优放卡策略, 对场地危害和敌方高危目标进行定点清除! 支持GPU加速
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
 
   - header: 布局
     description: 一个完美的响应式布局。
