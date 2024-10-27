@@ -22,7 +22,7 @@ actions:
     link: ./guide/
 
 highlights:
-  - header: 超全功能模块! 超多自动化!
+  - header: 超全功能模块 完整自动化服务
     description: FAA注重稳定流畅的日常清理, 完成配置后仅需一键即可自动清空一整周的各种事项! 解放您的双手!
     # image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
@@ -30,6 +30,7 @@ highlights:
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
+    features:
       - title: 刷新登录
         icon: clipboard-check
         details: 轻松刷新, 自动登录, 刷新游戏缓存，复位稳定挂机
@@ -106,7 +107,7 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
   - header: 超强战斗执行器
-    description: 最简单的配置, 强大的功能, 极强的方案通用性
+    description: 最简单的配置, 强大的功能, 极强的方案通用性, 重新挖掘游戏的趣味性
     image: /assets/image/ui.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
@@ -136,11 +137,6 @@ highlights:
         details: 基于图像识别的卡片状态识别放卡, 无需对您的游戏练度做任何预设, 即可体验丝滑放卡
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
-      - title: 可视化编辑器
-        icon: ellipsis
-        details: 可视化编辑战斗方案, 轻松点击书写您的奇谋诡略
-        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
-
       - title: 轻松分享
         icon: ellipsis
         details: 一方案一文件明文储存, 轻松传递您的巧思
@@ -152,12 +148,18 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
 
-  - header: 布局
-    description: 一个完美的响应式布局。
+  - header: 特性与组件
+    description: 谨为您提供简单的上手, 便捷的操作, 稳定的体验
     image: /assets/image/layout.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
+    
+      - title: 可视化编辑器
+        icon: ellipsis
+        details: 可视化编辑战斗方案, 轻松点击书写您的奇谋诡略
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
       - title: 导航栏
         icon: window-maximize
         details: 完全可定制的导航栏以及改进的移动端外观
