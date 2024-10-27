@@ -8,7 +8,8 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: FAA
-tagline: 美食大战老鼠自动助理\n自动放卡 自动战斗 简单上手 日常清空 绿色开源
+tagline: 美食大战老鼠自动助理
+tagline: 自动放卡 自动战斗 简单上手 日常清空 绿色开源
 actions:
   - text: 使用指南
     icon: lightbulb
@@ -119,7 +120,6 @@ highlights:
 
   - header: 超强战斗执行器
     description: 最简单的配置, 强大的功能, 极强的方案通用性, 重新挖掘游戏的趣味性
-    image: /assets/image/ui.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
     highlights:
@@ -158,7 +158,6 @@ highlights:
 
   - header: 特性与组件
     description: 谨为您提供简单的上手, 便捷的操作, 稳定的体验
-    image: /assets/image/layout.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
@@ -193,7 +192,6 @@ highlights:
 
   - header: 米苏物流
     description: 基于FAA战利品识别系统为数据源, 用爱发电数据收集服务端, 提供关卡掉落大数据查询
-    image: /assets/image/layout.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
     highlights:
