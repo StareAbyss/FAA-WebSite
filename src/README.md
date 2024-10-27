@@ -7,8 +7,8 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: FAA - 美食大战老鼠自动助理
-tagline: Foods Vs Mice Auto Assistant 自动放卡 自动战斗 简单上手 日常清空 绿色开源
+heroText: FAA
+tagline: 美食大战老鼠自动助理\n自动放卡 自动战斗 简单上手 日常清空 绿色开源
 actions:
   - text: 使用指南
     icon: lightbulb
@@ -238,17 +238,9 @@ highlights:
         details: 软件不需要安装, 不收集除掉落物以外的任何用户数据, 请放心使用
         link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
 
-      - title: 用爱发电
-        icon: code
-        details: 本软件为非官方民间软件. 由FAA开发组开发, 米苏物流后端由直视深渊提供, 米苏物流前端由夏夜浅酌提供.
-        link: https://theme-hope.vuejs.press/zh/guide/layout/
-
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
 ---
 
-这是项目主页的案例。你可以在这里放置你的主体内容。
-
-想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
-
-配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。
+本软件为非官方民间软件. 由FAA开发组开发, 主要成员包括: 直视深渊 / 八重垣天之 / 执念 / 怜梦惜月.  
+米苏物流后端由直视深渊(QQ:815204388)提供, 米苏物流前端由夏夜浅酌提供.
