@@ -8,8 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: FAA
-tagline: 美食大战老鼠自动助理
-tagline: 自动放卡 自动战斗 简单上手 日常清空 绿色开源
+tagline: 美食大战老鼠自动助理 简单清空日常 自动放卡战斗 
 actions:
   - text: 使用指南
     icon: lightbulb
