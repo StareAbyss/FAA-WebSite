@@ -7,8 +7,8 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: FAA - 一款美食大战老鼠自动化小助手
-tagline: Foods Vs Mice Auto Assistant 主打自动放卡 自动战斗 简单上手 日常清空
+heroText: FAA - 美食大战老鼠自动助理
+tagline: Foods Vs Mice Auto Assistant 自动放卡 自动战斗 简单上手 日常清空 绿色开源
 actions:
   - text: 使用指南
     icon: lightbulb
@@ -164,33 +164,83 @@ highlights:
     highlights:
 
       - title: 定时启动
-        icon: ellipsis
         details: 高效利用免费双暴时间, 精细规划日程安排
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
         
       - title: 战斗方案编辑器
-        icon: code
         details: 可视化编辑战斗方案, 轻松点击书写您的奇谋诡略
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
       - title: 任务序列编辑器
-        icon: code
         details: 可视化任务序列方案, 轻松点击安排您的规划待办
         link: https://theme-hope.vuejs.press/zh/guide/layout/navbar.html
 
       - title: 配置迁移器
-        icon: code
         details: 轻松点一点, 即可完成旧版本到新版本的迁移
         link: https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html
 
       - title: 窗口名称查找器
-        icon: code
         details: 拖拽到游戏窗口, 自动获取填写名称~ 记得点击保存!
         link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
 
+      - title: 战利品识别
+        details: 准确识别战利品, 可视化展示每个副本的掉落汇总
+        link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
+
       - title: 超强防卡死
-        icon: code
         details: 开发者与游戏Bug激情搏斗一年, 稳定挂一周不是梦 Tip.游戏服务器周四维护需重启游戏客户端
+        link: https://theme-hope.vuejs.press/zh/guide/layout/
+
+  - header: 米苏物流
+    description: 基于FAA战利品识别系统为数据源, 用爱发电数据收集服务端, 提供关卡掉落大数据查询
+    image: /assets/image/layout.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
+    highlights:
+
+      - title: 高效精准
+        details: 图优化高速识别, 多重校验优化, 数据源准确
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+        
+      - title: 直观查询
+        icon: code
+        details: 指定关卡和是否使用钥匙, 直观展示战利品和翻牌掉落物
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
+      - title: 每日更新
+        icon: code
+        details: FAA的数据库将每天清洗一次, 完成更新
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
+      - title: 数据清洗
+        icon: code
+        details: FAA的数据库将采用智能方式, 
+        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+
+  - header: 说明
+    image: /assets/image/layout.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    highlights:
+
+      - title: 开源
+        icon: code
+        details: FAA本身完全开源! 欢迎查阅代码 & 提供反馈 & 协同开发
+        link: https://theme-hope.vuejs.press/zh/guide/layout/navbar.html
+
+      - title: 免费
+        icon: code
+        details: FAA免费提供发行版本, 没有高级版或相关的付费计划. 请拒绝他人付费出售的本软件!
+        link: https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html
+
+      - title: 绿色
+        icon: code
+        details: 软件不需要安装, 不收集除掉落物以外的任何用户数据, 请放心使用
+        link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
+
+      - title: 用爱发电
+        icon: code
+        details: 本软件为非官方民间软件. 由FAA开发组开发, 米苏物流后端由直视深渊提供, 米苏物流前端由夏夜浅酌提供.
         link: https://theme-hope.vuejs.press/zh/guide/layout/
 
 copyright: false
