@@ -7,8 +7,8 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: FAA
-tagline: 美食大战老鼠自动助理 简单清空日常 自动放卡战斗 
+heroText: FAA 美食自动助理
+tagline: 简单清空日常 自动放卡战斗 
 actions:
   - text: 使用指南
     icon: lightbulb
@@ -200,17 +200,14 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
         
       - title: 直观查询
-        icon: code
         details: 指定关卡和是否使用钥匙, 直观展示战利品和翻牌掉落物
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
       - title: 每日更新
-        icon: code
         details: FAA的数据库将每天清洗一次, 完成更新
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
       - title: 数据清洗
-        icon: code
         details: FAA的数据库将采用智能方式, 
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
