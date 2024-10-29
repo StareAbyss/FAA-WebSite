@@ -24,6 +24,7 @@ actions:
 highlights:
   - header: 超全功能模块 完整自动化服务
     description: FAA注重稳定流畅的日常清理, 完成配置后仅需一键即可自动清空一整周的各种事项! 解放您的双手!
+    本网页仍在施工中, 许多跳转可能并不可用, 或指向了Vue模板! 部分描述未从旧版文档完成迁移!
     # image: /assets/image/圆角-FetTuo-512x.png
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -204,11 +205,11 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
       - title: 每日更新
-        details: FAA的数据库将每天清洗一次, 完成更新
+        details: FAA的数据库的清洗频率, 为每天清洗一次
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
       - title: 数据清洗
-        details: FAA的数据库将采用智能方式, 
+        details: FAA的数据库将以一定规则, 去除脏数据, 保持可信度.
         link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
   - header: 说明
@@ -232,9 +233,20 @@ highlights:
         details: 软件不需要安装, 不收集除掉落物以外的任何用户数据, 请放心使用
         link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
 
+      - title: 讨论建议
+        icon: code
+        details: 我们使用QQ群组, 欢迎加入讨论和提出建议! 点击此处跳转~
+        link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
+
+      - title: 联系我们
+        icon: code
+        details: 请单独联系直视深渊, 点击此处跳转到联系方式~
+        link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
+
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
+footer: 本软件为非官方民间软件. 由FAA开发组开发, 主要成员包括 直视深渊 / 八重垣天之 / 执念 / 怜梦惜月 / 夏夜浅酌. 
+使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
 ---
 
-本软件为非官方民间软件. 由FAA开发组开发, 主要成员包括: 直视深渊 / 八重垣天之 / 执念 / 怜梦惜月.  
-米苏物流后端由直视深渊(QQ:815204388)提供, 米苏物流前端由夏夜浅酌提供.
+
+
