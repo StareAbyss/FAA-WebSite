@@ -13,9 +13,9 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/assets/image/圆角-FetTuo-512x.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "StareAbyss/FoodsVsMiceAutoAssistant",
 
   docsDir: "src",
 

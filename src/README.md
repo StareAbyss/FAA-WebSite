@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: /assets/image/圆角-FetTuo-512x.png
+# heroImage: /assets/image/圆角-FetTuo-512x.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
@@ -90,7 +90,7 @@ highlights:
 
       - title: 跨服副本
         icon: clipboard-check
-        details: 10次无衰减的掉落, 终极技能书最大来源, 必须完美支持
+        details: 10次无衰减的掉落, 终极究极技能书最大来源, 必须完美支持
         link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
       - title: 公会副本
