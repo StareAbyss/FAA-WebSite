@@ -2,8 +2,8 @@
 
 ## 下载最新版本zip
 
-::: tip Github - Release
-![](https://img.shields.io/github/downloads/StareAbyss/FoodsVsMiceAutoAssistant/total?color=4e4c97)点击左侧图标, 前往下载.  
+::: tip Github - Release [![](https://img.shields.io/github/downloads/StareAbyss/FoodsVsMiceAutoAssistant/total?color=4e4c97)](https://github.com/StareAbyss/FoodsVsMiceAutoAssistant/releases)
+* 点击上方下载量图标, 前往下载.  
 * 提供FAA最新稳定版.
 ::: 
 
