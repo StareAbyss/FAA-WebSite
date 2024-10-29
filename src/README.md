@@ -10,22 +10,18 @@ bgImageStyle:
 heroText: FAA 美食自动助理
 tagline: 简单清空日常 自动放卡战斗 
 actions:
-  - text: 使用指南
+  - text: 指南
     icon: lightbulb
-    link: ./demo/
+    link: ./guide/
     type: primary
 
-  - text: 文档
-    link: ./guide/
-
   - text: 下载
-    link: ./guide/
+    link: ./guide/start_quickly/download.md
 
 highlights:
   - header: 超全功能模块 完整自动化服务
     description: FAA注重稳定流畅的日常清理, 完成配置后仅需一键即可自动清空一整周的各种事项! 解放您的双手!
     本网页仍在施工中, 许多跳转可能并不可用, 或指向了Vue模板! 部分描述未从旧版文档完成迁移!
-    # image: /assets/image/圆角-FetTuo-512x.png
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
