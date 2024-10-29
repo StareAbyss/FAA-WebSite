@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/FAA-WebSite/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "FAA 美食自动助理",
+  description: "FAA 美食自动助理的软件主页与文档演示",
 
   theme,
 
