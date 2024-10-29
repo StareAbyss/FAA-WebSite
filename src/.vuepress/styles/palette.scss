@@ -1,1 +1,5 @@
 // you can change colors here
+// 标题文本颜色
+.vp-hero-title {
+    background: linear-gradient(120deg, var(--vp-c-accent-hover), var(--vp-c-accent) 30%, rgb(159 152 166) 100%);
+}
