@@ -1,8 +1,8 @@
 ---
 home: true
 icon: home
-title: 项目主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+title: 主页
+heroImage: /assets/image/圆角-FetTuo-512x.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
@@ -24,7 +24,7 @@ actions:
 highlights:
   - header: 超全功能模块 完整自动化服务
     description: FAA注重稳定流畅的日常清理, 完成配置后仅需一键即可自动清空一整周的各种事项! 解放您的双手!
-    # image: /assets/image/markdown.svg
+    # image: /assets/image/圆角-FetTuo-512x.png
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
