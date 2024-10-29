@@ -6,7 +6,7 @@
 * 点击上方下载量图标, 前往下载.  
 * 提供FAA最新稳定版.
 
-###  QQ讨论群 - 群文件 [](https://img.shields.io/badge/QQ%201群-786921130-4e4c97)![](https://img.shields.io/badge/QQ%202群-142272678-4e4c97)
+###  QQ讨论群 - 群文件 ![](https://img.shields.io/badge/QQ%201群-786921130-4e4c97)![](https://img.shields.io/badge/QQ%202群-142272678-4e4c97)
 * 提供FAA最新稳定版. 
 * 提供包含全新特性和潜在不稳定性的的beta版. 
 * 更有玩家社区维护的大量战斗方案和周更关卡信息等资源供您参考.
