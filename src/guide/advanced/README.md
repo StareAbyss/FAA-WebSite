@@ -1,5 +1,5 @@
 ---
-title: Bar 功能
+title: 深入进阶
 icon: lightbulb
 ---
 

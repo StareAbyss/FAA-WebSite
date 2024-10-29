@@ -3,9 +3,9 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     "",
-    "portfolio",
+    // "portfolio",
     {
-      text: "案例",
+      text: "演示",
       icon: "laptop-code",
       prefix: "demo/",
       link: "demo/",
@@ -17,10 +17,10 @@ export default sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
-    },
+    // {
+    //   text: "幻灯片",
+    //   icon: "person-chalkboard",
+    //   link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
+    // },
   ],
 });

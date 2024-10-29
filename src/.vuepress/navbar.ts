@@ -9,16 +9,22 @@ export default navbar([
     prefix: "/guide/",
     children: [
       {
-        text: "Bar",
+        text: "新手入门",
         icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "start_quickly/",
+        children: ["综述", { text: "...", icon: "ellipsis", link: "" }],
       },
       {
-        text: "Foo",
+        text: "深入进阶",
         icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "advanced/",
+        children: ["综述", { text: "...", icon: "ellipsis", link: "" }],
+      },
+      {
+        text: "开发文档",
+        icon: "lightbulb",
+        prefix: "development/",
+        children: ["综述", { text: "...", icon: "ellipsis", link: "" }],
       },
     ],
   },
