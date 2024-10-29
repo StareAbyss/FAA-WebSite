@@ -2,8 +2,8 @@
 
 ## 操作系统
 
-::: FAA-1.4.0+ 支持`Windows 10`及以上.
-* FAA不再对`Windows7`进行支持, 如有特别需求, 可自行更换.
+::: info FAA 支持 `Windows10` 及以上
+* FAA不再对`Windows7`进行支持, 如有特别需求, 可Clone主分支, 改用Python3.8.x重新进行编译.
 * 不支持`Linux`, `MacOS`, `Android`等.
 ::: 
 
