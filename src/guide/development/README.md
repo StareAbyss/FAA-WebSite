@@ -1,5 +1,5 @@
 ---
-title: 开发文档 - 综述
+title: 开发文档
 icon: lightbulb
 ---
 

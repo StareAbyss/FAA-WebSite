@@ -1,5 +1,5 @@
 ---
-title: 深入进阶 - 综述
+title: 深入进阶
 icon: lightbulb
 ---
 

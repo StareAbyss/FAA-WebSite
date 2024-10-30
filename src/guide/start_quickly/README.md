@@ -1,5 +1,5 @@
 ---
-title: 新手入门 - 综述
+title: 新手入门
 icon: lightbulb
 ---
 
