@@ -32,7 +32,7 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/advanced/pay_to_win.html": ["StareAbyss is so cool"],
     },
   },
 

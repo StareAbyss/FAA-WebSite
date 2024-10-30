@@ -200,7 +200,7 @@ highlights:
         # link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
 
 copyright: false
-footer: 本软件为非官方民间软件. 由FAA开发组开发, 主要成员包括 直视深渊 / 八重垣天之 / 执念 / 怜梦惜月 / 夏夜浅酌. 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
+footer: 本软件为非官方民间软件. 由FAA开发组开发, 主要成员包括 直视深渊 / 八重垣天知 / 执念 / 怜梦惜月 / 夏夜浅酌. 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
 ---
 
 
