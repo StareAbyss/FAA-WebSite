@@ -11,7 +11,7 @@ export default navbar([
       {
         text: "新手入门",
         icon: "lightbulb",
-        prefix: "start_quickly/",
+        prefix: "start/",
         children: [{ text: "综述", icon: "ellipsis", link: "" }],
       },
       {

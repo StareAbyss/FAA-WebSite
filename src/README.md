@@ -16,7 +16,7 @@ actions:
     type: primary
 
   - text: 下载
-    link: ./guide/start_quickly/download.md
+    link: ./guide/start/download.md
 
 highlights:
   - header: 超全功能模块 完整自动化服务
