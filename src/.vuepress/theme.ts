@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/assets/image/圆角-FetTuo-512x.png",
 
-  repo: "StareAbyss/FoodsVsMiceAutoAssistant",
+  repo: "StareAbyss/FAA-WebSite",
 
   docsDir: "src",
 
@@ -29,10 +29,10 @@ export default hopeTheme({
   footer: "默认页脚",
   displayFooter: true,
 
-  // 加密配置
+  // 加密文档
   encrypt: {
     config: {
-      "/advanced/pay_to_win.html": ["1929283"],
+      "/advanced/pay_to_win.html": "1929283",
     },
   },
 
