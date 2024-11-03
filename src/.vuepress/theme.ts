@@ -32,7 +32,7 @@ export default hopeTheme({
   // 加密文档
   encrypt: {
     config: {
-      "/advanced/pay_to_win.html": "1929283",
+      "/guide/advanced/pay_to_win.html": "20011003",
     },
   },
 
