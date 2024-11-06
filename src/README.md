@@ -20,7 +20,7 @@ actions:
 
 highlights:
   - header: 超全功能模块 完整自动化服务
-    description: FAA注重稳定流畅的日常清理, 完成配置后仅需一键即可自动清空一整周的各种事项! 解放您的双手! 本网页仍在施工中, 许多跳转可能并不可用, 或指向了Vue模板! 部分描述未从旧版文档完成迁移!
+    description: FAA注重稳定流畅的日常清理, 完成配置后仅需一键即可自动清空一整周的各种事项! 解放您的双手! 
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
