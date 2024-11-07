@@ -3,7 +3,7 @@
 ## 下载最新版本zip
 
 ### 渠道1 - Github - Release [![](https://img.shields.io/github/downloads/StareAbyss/FoodsVsMiceAutoAssistant/total?color=4e4c97)](https://github.com/StareAbyss/FoodsVsMiceAutoAssistant/releases)
-* 点击上方下载量图标, 前往下载.  
+* 点击上方下载量图标, 前往下载名为 **FAA-vX.X.X.zip** 的文件.  
 * 提供FAA最新稳定版.
 
 ::: note 上不去Github? 请参考[Github稳定连接](../other/watt_toolkit.md)
