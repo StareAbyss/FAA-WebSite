@@ -2,14 +2,18 @@
 
 ## 下载最新版本zip
 
-### Github - Release [![](https://img.shields.io/github/downloads/StareAbyss/FoodsVsMiceAutoAssistant/total?color=4e4c97)](https://github.com/StareAbyss/FoodsVsMiceAutoAssistant/releases)
+### 渠道1 - Github - Release [![](https://img.shields.io/github/downloads/StareAbyss/FoodsVsMiceAutoAssistant/total?color=4e4c97)](https://github.com/StareAbyss/FoodsVsMiceAutoAssistant/releases)
 * 点击上方下载量图标, 前往下载.  
 * 提供FAA最新稳定版.
 
-###  QQ讨论群 - 群文件 ![](https://img.shields.io/badge/QQ%201群-786921130-4e4c97)![](https://img.shields.io/badge/QQ%202群-142272678-4e4c97)
+::: note 上不去Github? 请参考[Github稳定连接](../other/watt_toolkit.md)
+::: 
+
+### 渠道2 - QQ讨论群 - 群文件
+[点击查看讨论群 群号和概况 等信息](../other/contacts.md)
 * 提供FAA最新稳定版. 
-* 提供包含全新特性和潜在不稳定性的的beta版. 
-* 更有玩家社区维护的大量战斗方案和周更关卡信息等资源供您参考.
+* 提供包含全新特性和潜在不稳定性的beta版. 
+* 玩家社区维护, 大量战斗方案供您参考.
 
 ::: warning 请务必下载最新稳定版本
 不推荐尝试旧版, 它们将带有大量未来已被修复的错误, 且不被维护, 甚至可能无法启动.

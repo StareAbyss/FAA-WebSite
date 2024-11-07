@@ -70,7 +70,7 @@ highlights:
 
       - title: 美食大赛
         icon: clipboard-check
-        details: 100%准确度超强OCR文字识别 + 语义解析 + 自动方案生成 + 自动化全流程 = 一键肝完美食大赛
+        details: 100%准确度超强OCR文字识别/语义解析/自动方案生成/自动化全流程, 一键肝完美食大赛
 
       - title: 勇士副本
         icon: clipboard-check
@@ -86,7 +86,7 @@ highlights:
 
       - title: 魔塔蛋糕
         icon: clipboard-check
-        details: 单人双人密室完整覆盖, 输入层数0即可自动爬塔~
+        details: 单人双人密室完整覆盖, 输入层数0即可自动爬塔
 
       - title: 萌宠神殿
         icon: clipboard-check
@@ -133,25 +133,25 @@ highlights:
     highlights:
 
       - title: 定时启动
-        details: 高效利用免费双暴时间, 精细规划日程安排
+        details: 高效利用免费双暴时间, 精细规划日程安排.
         
       - title: 战斗方案编辑器
-        details: 可视化编辑战斗方案, 轻松点击书写您的奇谋诡略
+        details: 可视化编辑战斗方案, 轻松点击书写您的奇谋诡略.
 
       - title: 任务序列编辑器
-        details: 可视化任务序列方案, 轻松点击安排您的规划待办
+        details: 可视化任务序列方案, 轻松点击安排您的规划待办.
 
       - title: 配置迁移器
-        details: 轻松点一点, 即可完成旧版本到新版本的迁移
+        details: 轻松点一点, 即可完成旧版本到新版本的迁移.
 
       - title: 窗口名称查找器
         details: 拖拽到游戏窗口, 自动获取填写名称~ 记得点击保存!
 
       - title: 战利品识别
-        details: 准确识别战利品, 可视化展示每个副本的掉落汇总
+        details: 准确识别战利品, 可视化展示每个副本的掉落汇总.
 
       - title: 超强防卡死
-        details: 开发者与游戏Bug激情搏斗一年, 稳定挂一周不是梦 Tip.游戏服务器周四维护需重启游戏客户端
+        details: 开发者与游戏Bug激情搏斗一年, 稳定挂一周不是梦 Tip.游戏服务器周四维护需重启游戏客户端.
 
   - header: 米苏物流
     description: 基于FAA战利品识别系统为数据源, 用爱发电数据收集服务端, 提供关卡掉落大数据查询
@@ -160,16 +160,16 @@ highlights:
     highlights:
 
       - title: 高效精准
-        details: 图优化高速识别, 多重校验优化, 数据源准确
+        details: 图优化高速识别, 多重校验优化, 数据源准确.
         
       - title: 直观查询
-        details: 指定关卡和是否使用钥匙, 直观展示战利品和翻牌掉落物
+        details: 指定关卡和是否使用钥匙, 直观展示战利品和翻牌掉落物.
 
       - title: 每日更新
-        details: FAA的数据库的清洗频率, 为每天清洗一次
+        details: FAA的数据库的清洗频率, 为每天清洗一次.
 
-      - title: 数据清洗
-        details: FAA的数据库将以一定规则, 去除脏数据, 保持可信度.
+      - title: 关卡信息服务
+        details: FAA可以从米苏物流服务器获取最新关卡信息, 无需用户手动拖拽文件!
 
   - header: 说明
     image: /assets/image/layout.svg
@@ -179,7 +179,7 @@ highlights:
 
       - title: 开源
         icon: code
-        details: FAA本身完全开源! 欢迎查阅代码 & 提供反馈 & 协同开发
+        details: FAA本身完全开源! 欢迎查阅代码 & 提供反馈 & 协同开发. [点击查看Github仓库](https://StareAbyss/FoodsVsMiceAutoAssistant)
 
       - title: 免费
         icon: code
@@ -187,16 +187,16 @@ highlights:
 
       - title: 绿色
         icon: code
-        details: 软件不需要安装, 不收集除掉落物以外的任何用户数据, 请放心使用
+        details: 软件不需要安装, 不收集除掉落物以外的任何用户数据, 请放心使用.
 
       - title: 讨论建议
         icon: code
-        details: 我们使用QQ群组, 欢迎加入讨论和提出建议! 点击此处跳转~
+        details: 我们使用QQ群组, 欢迎加入讨论 & 提出建议 & 参与开发! [点击查看加入方式](./guide/other/contacts.md)
         # link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
 
       - title: 联系我们
         icon: code
-        details: 请单独联系直视深渊, 点击此处跳转~
+        details: 请单独联系直视深渊. [点击查看联系方式](./guide/other/contacts.md)
         # link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
 
 copyright: false
