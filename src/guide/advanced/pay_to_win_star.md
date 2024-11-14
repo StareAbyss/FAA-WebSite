@@ -9,7 +9,7 @@
 这很简单, 就像在B站点赞一般. 是**完全免费**的.
 1. 进入[Github](https://github.com/)  
 2. 使用您的邮箱进行注册, 这非常简单, 就像您在大多数网站上注册账号一样. 进行登录.  
-3. 点击[本连接](https://StareAbyss/FoodsVsMiceAutoAssistant), 进入FAA的项目页面.  
+3. 点击[本连接](https://github.com/StareAbyss/FoodsVsMiceAutoAssistant), 进入FAA的项目页面.  
 4. 点击右上角星星图标, 之后它将变为Starred!  
 :::
 
