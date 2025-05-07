@@ -83,11 +83,11 @@ FAA**不应用实时更改**, 即：运行中进行的配置更改并保存后, 
 ::: warning 放卡和卡组完全不符
 请不要勾选列表中, 全对应的可选项. 
 这将激活 `全局方案&关卡方案` 机制, 这将导致您手动为该战斗事项设置的战斗方案和卡组机制被覆盖. 
-参考文档 [全局方案&关卡方案](../advanced/gloabl_and_stage_battle_plan.md)
+参考文档 [全局方案&关卡方案](../advanced/b_gloabl_and_stage_battle_plan.md)
 :::
 
 ::: warning 不打跨服&乱进跨服
-参考文档 [跨服副本](../advanced/cs.md)
+参考文档 [跨服副本](../advanced/t_cs.md)
 自行完成截图步骤.
 :::
 
